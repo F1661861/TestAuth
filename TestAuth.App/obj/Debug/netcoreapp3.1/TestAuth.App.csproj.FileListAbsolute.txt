@@ -1,0 +1,14 @@
+D:\WorkSpace\TestAuth\TestAuth.App\bin\Debug\netcoreapp3.1\TestAuth.App.deps.json
+D:\WorkSpace\TestAuth\TestAuth.App\bin\Debug\netcoreapp3.1\TestAuth.App.dll
+D:\WorkSpace\TestAuth\TestAuth.App\obj\Debug\netcoreapp3.1\TestAuth.App.csprojAssemblyReference.cache
+D:\WorkSpace\TestAuth\TestAuth.App\obj\Debug\netcoreapp3.1\TestAuth.App.AssemblyInfoInputs.cache
+D:\WorkSpace\TestAuth\TestAuth.App\obj\Debug\netcoreapp3.1\TestAuth.App.AssemblyInfo.cs
+D:\WorkSpace\TestAuth\TestAuth.App\bin\Debug\netcoreapp3.1\TestAuth.App.pdb
+D:\WorkSpace\TestAuth\TestAuth.App\bin\Debug\netcoreapp3.1\TestAuth.Repository.dll
+D:\WorkSpace\TestAuth\TestAuth.App\bin\Debug\netcoreapp3.1\TestAuth.Repository.pdb
+D:\WorkSpace\TestAuth\TestAuth.App\obj\Debug\netcoreapp3.1\TestAuth.App.csproj.CopyComplete
+D:\WorkSpace\TestAuth\TestAuth.App\obj\Debug\netcoreapp3.1\TestAuth.App.dll
+D:\WorkSpace\TestAuth\TestAuth.App\obj\Debug\netcoreapp3.1\TestAuth.App.pdb
+D:\WorkSpace\TestAuth\TestAuth.App\bin\Debug\netcoreapp3.1\TestAuth.Infrastructrue.dll
+D:\WorkSpace\TestAuth\TestAuth.App\bin\Debug\netcoreapp3.1\TestAuth.Infrastructrue.pdb
+D:\WorkSpace\TestAuth\TestAuth.App\obj\Debug\netcoreapp3.1\TestAuth.App.csproj.CoreCompileInputs.cache

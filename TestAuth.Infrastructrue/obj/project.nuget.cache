@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "k4t7G5iMRnTfV0tMsfMMoDd/lEixl9qkAJl5RrJor4eb5sS3aaf30EEDnHtHaPuCk9JYlY7HsUEqAL2eNldLsQ==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\TestAuth\\TestAuth\\TestAuth.Infrastructrue\\TestAuth.Infrastructrue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.3\\microsoft.extensions.caching.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

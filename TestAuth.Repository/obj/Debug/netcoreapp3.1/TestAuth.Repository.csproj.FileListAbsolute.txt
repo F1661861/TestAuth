@@ -1,0 +1,9 @@
+D:\WorkSpace\TestAuth\TestAuth.Repository\bin\Debug\netcoreapp3.1\TestAuth.Repository.deps.json
+D:\WorkSpace\TestAuth\TestAuth.Repository\bin\Debug\netcoreapp3.1\TestAuth.Repository.dll
+D:\WorkSpace\TestAuth\TestAuth.Repository\obj\Debug\netcoreapp3.1\TestAuth.Repository.AssemblyInfoInputs.cache
+D:\WorkSpace\TestAuth\TestAuth.Repository\obj\Debug\netcoreapp3.1\TestAuth.Repository.AssemblyInfo.cs
+D:\WorkSpace\TestAuth\TestAuth.Repository\bin\Debug\netcoreapp3.1\TestAuth.Repository.pdb
+D:\WorkSpace\TestAuth\TestAuth.Repository\obj\Debug\netcoreapp3.1\TestAuth.Repository.dll
+D:\WorkSpace\TestAuth\TestAuth.Repository\obj\Debug\netcoreapp3.1\TestAuth.Repository.pdb
+D:\WorkSpace\TestAuth\TestAuth.Repository\obj\Debug\netcoreapp3.1\TestAuth.Repository.csprojAssemblyReference.cache
+D:\WorkSpace\TestAuth\TestAuth.Repository\obj\Debug\netcoreapp3.1\TestAuth.Repository.csproj.CoreCompileInputs.cache
